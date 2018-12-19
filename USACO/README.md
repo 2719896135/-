@@ -1,6 +1,8 @@
 # USACO题库
 ![USACO](https://raw.githubusercontent.com/cloudzfy/usaco/master/images/cowhead2.gif)
 
+不会USACO不要慌，这里有世界上最全题解
+
 * Chapter 1 Getting Started
   * Section 1.1
     * Your Ride Is Here
