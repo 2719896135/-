@@ -1,9 +1,4 @@
-## USACO Training
-
-Copyright (C) 2016 Cloudzfy. All Rights Reserved.
-
-========================================================
-
+# USACO题库
 ![USACO](https://raw.githubusercontent.com/cloudzfy/usaco/master/images/cowhead2.gif)
 
 * Chapter 1 Getting Started
